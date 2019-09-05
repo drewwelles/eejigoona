@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deithohng.jsonpathfinder.com/sitemap.xml
